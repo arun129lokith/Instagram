@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7be383c-5ad3-4ca5-a5fb-1bfcc4f798c1" name="Changes" comment="&quot;Second commit&quot;">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Instagram Application.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/instagram/controller/PostController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/instagram/controller/PostController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/instagram/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/instagram/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/instagram/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/instagram/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/instagram/model/UserPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/instagram/model/UserPost.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/instagram/service/PostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/instagram/service/PostService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/instagram/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/instagram/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/instagram/service/impl/PostServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/instagram/service/impl/PostServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/instagram/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/instagram/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/instagram/view/PostView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/instagram/view/PostView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/instagram/view/UserView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/instagram/view/UserView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/instagram/view/validation/UserValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/instagram/view/validation/UserValidation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1685108979956</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Second commit&quot;">
+      <created>1686135651006</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686135651006</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
