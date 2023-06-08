@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7be383c-5ad3-4ca5-a5fb-1bfcc4f798c1" name="Changes" comment="&quot;Third commit&quot;" />
+    <list default="true" id="a7be383c-5ad3-4ca5-a5fb-1bfcc4f798c1" name="Changes" comment="&quot;I am in&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686229539224</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&quot;I am in&quot;">
+      <created>1686231901896</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686231901896</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&quot;I am in&quot;">
+      <created>1686232258272</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686232258272</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +161,7 @@
     <MESSAGE value="&quot;Second commit&quot;" />
     <MESSAGE value="&quot;Fourth commit&quot;" />
     <MESSAGE value="&quot;Third commit&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Third commit&quot;" />
+    <MESSAGE value="&quot;I am in&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;I am in&quot;" />
   </component>
 </project>
